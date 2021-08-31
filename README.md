@@ -1,2 +1,2 @@
-# Simple--Stack-VM
+# Simple-Stack-VM
 A Simple Stack VM
