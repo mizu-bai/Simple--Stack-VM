@@ -4,19 +4,19 @@
 
 ## 当前支持的指令
 
-1. PUSH
-2. POP
-3. ADD
-4. SUB
-5. MUL
-6. DIV
-7. EQ
-8. GT
-9. LT
-10. AND
-11. OR
-12. NOT
-13. XOR
+1. `PUSH`
+2. `POP`
+3. `ADD`
+4. `SUB`
+5. `MUL`
+6. `DIV`
+7. `EQ`
+8. `GT`
+9. `LT`
+10. `AND`
+11. `OR`
+12. `NOT`
+13. `XOR`
 
 ## 使用方法
 
